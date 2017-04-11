@@ -22,3 +22,7 @@ Periféricos embarcados na placa
 - Acelerômetro 3-eixos modelo MMA8451Q
 - LED RGB conectado a canais PWM
 - Sensor Touch Capacitivo
+
+# Tutorial da KL25Z
+
+ O arquivo tutorial.md contém os links do tutorial para uso com o Keil. 
