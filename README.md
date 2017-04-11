@@ -26,3 +26,11 @@ Periféricos embarcados na placa
 # Tutorial da KL25Z
 
  O arquivo tutorial.md contém os links do tutorial para uso com o Keil. 
+
+# Referências
+
+- Artigos do Portal Embarcados
+
+https://www.embarcados.com.br/biblioteca-de-gpio-frdm-kl25z/
+
+- Reference Manual KL25Z
