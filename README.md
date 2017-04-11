@@ -1,4 +1,4 @@
-# KL25Z
+# FRDM-KL25Z: Freedom Development Platform 
 
 Placa da NXP/Freescale
 
