@@ -26,3 +26,5 @@ o número do pino (bit).
 Para ler o valor dos GPIOs foi criada a função “gpio_read”, uma vez que o pino foi inicializado como entrada (INPUT). Essa função recebe dois parâmetros, são eles:
 o número do "PORT" e;
 o número pino.
+
+https://github.com/evandro-teixeira/FRDM-KL25Z-GPIO 
