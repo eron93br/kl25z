@@ -6,8 +6,8 @@ https://github.com/evandro-teixeira/FRDM-KL25Z-GPIO
 
 - SPI library 
 
-https://www.embarcados.com.br/biblioteca-spi-para-a-placa-frdm-kl25z/
+https://github.com/evandro-teixeira/frdm-kl25z-spi
 
 - ADC library 
 
-https://www.embarcados.com.br/bibliotecas-para-adc-da-frdm-kl25z/
+https://github.com/evandro-teixeira/FRDM-KL25Z-ADC
