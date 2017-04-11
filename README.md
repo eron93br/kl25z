@@ -1,6 +1,6 @@
 # KL25Z
 
-Placa da NXP/Freescale
+Placa da NXP/Freescalehttp://3.bp.blogspot.com/-eyQCZaTSJAQ/UMkWXPfFRuI/AAAAAAAAAVc/xCNzlDddws8/s1600/keil_prog_6.JPG
 
 Para aprender e desenvolver aplicações com microcontroladores ARM, família Cortex-M0+, é o pacote completo. 
 
