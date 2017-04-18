@@ -8,6 +8,8 @@ https://github.com/evandro-teixeira/FRDM-KL25Z-GPIO
 
 https://github.com/evandro-teixeira/frdm-kl25z-spi
 
+https://github.com/burberger/FRDM-SPI
+
 - ADC library 
 
 https://github.com/evandro-teixeira/FRDM-KL25Z-ADC
