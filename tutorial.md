@@ -6,3 +6,6 @@ https://inst.eecs.berkeley.edu/~ee192/sp17/files/Keil-concordia.pdf
 
 http://www.keil.com/appnotes/docs/apnt_232.asp
 
+# Programando no KDS (Kinetis Design Studio)
+
+https://www.embarcados.com.br/projeto-com-a-frdm-k64f-e-kds/ 
