@@ -19,3 +19,7 @@ Os itens usados para o projeto são:
  
 ![alt tag](http://www.learningaboutelectronics.com/images/LM741_pinout_diagram.jpg)
 
+
+# Código
+
+O código principial está no arquivo main.c! Este projeto utiliza a biblioteca SPI do Evandro Teixeira.
