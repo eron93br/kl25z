@@ -23,3 +23,8 @@ Os itens usados para o projeto são:
 # Código
 
 O código principial está no arquivo main.c! Este projeto utiliza a biblioteca SPI do Evandro Teixeira.
+
+# Referências
+
+http://www.exploringarduino.com/wp-content/uploads/2013/06/MCP4231-datasheet.pdf
+
