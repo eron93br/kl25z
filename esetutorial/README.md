@@ -25,3 +25,9 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  
  
  # Referências 
+
+- Portal Embarcados
+
+https://www.embarcados.com.br/curso-mbed-na-kl25z/
+
+- User Manual KL25Z
