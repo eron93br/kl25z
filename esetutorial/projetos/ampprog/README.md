@@ -3,6 +3,8 @@
 Este projeto é consiste em um amplificador operacional com ganho programável para projetos na área de instrumentação e
 controle. 
 
+![alt tag](http://i.imgur.com/GrA4jpA.png)
+
 Os itens usados para o projeto são:
 
 - O MCP4131 (potênciometro digital)
