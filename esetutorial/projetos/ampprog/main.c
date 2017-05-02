@@ -45,7 +45,7 @@ int main(void)
     	// Aguarda perido antes de eviar os dados para o MCP4131
     	// Envia comando de Escrita para o MCP4131
     	spi_send(SPI_1,0x00);
-    	spi_send(SPI_1,0x40);
+    	spi_send(SPI_1,0x30);
     	// Envia dado  para configurar o valor do potenciometro
     	// Aguarda um perido de tempo para encerrar a comunicação com o MCP4131
     	// CS = 1 - Encerra a comunicação com o MCP4131
