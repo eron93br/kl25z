@@ -26,8 +26,8 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  
  # Projetos/exemplos de uso da KL25Z
  
- - Amplificador de ganho programável
- 
+ - Acesso a I/Os, protocolos de comunicação.
+ - Amplificador de ganho programável.
  
  
  # Referências 
