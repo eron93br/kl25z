@@ -27,6 +27,8 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  # Projetos/exemplos de uso da KL25Z
  
  - Acesso a I/Os, protocolos de comunicação.
+ - Touch sensor
+ - ADC/DAC.
  - Amplificador de ganho programável.
  
  
