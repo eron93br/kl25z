@@ -14,6 +14,8 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  
  - mBed
  
+ A plataforma mBed acelera e simplifica a criação de um projeto para MCUs ARM. 
+ 
  - Keil
  
  Podemos programar a KL25Z no Keil, uma ótima ferramenta para programação e debug de MCUs ARM. O tutorial para programação usando a plataforma Keil pode ser encontrado no link a seguir, sendo a referência usada para a apresentação deste seminário.
