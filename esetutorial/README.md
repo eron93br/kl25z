@@ -42,4 +42,3 @@ https://www.embarcados.com.br/curso-mbed-na-kl25z/
 
 - Kinetis SDK Demo Applications Users Guide
 
-- 
