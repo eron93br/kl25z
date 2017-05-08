@@ -1,7 +1,4 @@
 # Projetos KL25Z
 
-- POT DIGITAL
+As pastas/projetos listados aqui usamo o KDS/Keil como IDE de programação. Em muitos deles, faz-se necessário dos pacotes da instalação do KSDK da Freescale/NXP.
 
-- SPI
-
-- I2C..
