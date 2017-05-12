@@ -19,8 +19,8 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  - Keil
  
  Podemos programar a KL25Z no Keil, uma ótima ferramenta para programação e debug de MCUs ARM. O tutorial para programação usando a plataforma Keil pode ser encontrado no link a seguir, sendo a referência usada para a apresentação deste seminário.
- 
- https://inst.eecs.berkeley.edu/~ee192/sp17/files/Keil-concordia.pdf
+
+[Tutorial como usar KL25Z no Keil](https://inst.eecs.berkeley.edu/~ee192/sp17/files/Keil-concordia.pdf)
  
  - KDS (Kinetis Design Studio)
  
@@ -34,11 +34,9 @@ O tutorial contempla a programação da placa KL25Z nas plataformas: mBed, Keil 
  
  # Referências 
 
-- Portal Embarcados
+- [Artigo do Portal Embarcados](https://www.embarcados.com.br/curso-mbed-na-kl25z/)
 
-https://www.embarcados.com.br/curso-mbed-na-kl25z/
-
-- User Manual KL25Z
+- [User Manual KL25Z](http://www.seeedstudio.com/document/pdf/FRMD-KL25Z.pdf)
 
 - Kinetis SDK Demo Applications Users Guide
 
