@@ -31,8 +31,6 @@ Periféricos embarcados na placa
 
 # Referências
 
-- Artigos do Portal Embarcados
-
-https://www.embarcados.com.br/biblioteca-de-gpio-frdm-kl25z/
+- [Artigo do Portal Embarcados](https://www.embarcados.com.br/biblioteca-de-gpio-frdm-kl25z)
 
 - Reference Manual KL25Z
